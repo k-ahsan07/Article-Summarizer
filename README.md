@@ -1,8 +1,17 @@
-# React + Vite
+# AI Article Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The AI Article Summarizer is a machine learning-based tool designed to automatically summarize articles, making it easier for users to quickly grasp the main points of long and complex texts. It leverages advanced Natural Language Processing (NLP) techniques to generate concise summaries that capture the essence of the input article.
 
-Currently, two official plugins are available:
+# Features
+Summarization: Generates concise summaries from long articles while retaining the key information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+User-friendly Interface: Simple input-output design where users can paste articles and receive summaries instantly.
+
+
+Fast Processing: The summarization process is optimized for quick turnaround times.
+
+## 🔗 Links
+[![todo-app](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khuzaimaahsanportfolio.vercel.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-ahsan-609677227/)
